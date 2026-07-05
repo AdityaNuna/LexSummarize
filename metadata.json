@@ -1,0 +1,6 @@
+{
+  "name": "LexSummarize",
+  "description": "Professional legal court order summarization tool for Indian lawyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
