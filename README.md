@@ -30,15 +30,6 @@ LexSummarize is a full-stack, visually rich application designed to help legal p
 
 ---
 
-## 🎨 Design Philosophy
-
-LexSummarize departs from generic, uninspired web templates and adopts a distinguished digital chamber style:
-- **Colors**: Deep, elegant slate charcoal (`#0B0F19`) background paired with regal warm-gold accents (`#C5A059`) and pristine off-white typography.
-- **Typography**: Paired display typography ("Space Grotesk") for authoritative headers with crisp body copy ("Inter") and technical monospaced details ("JetBrains Mono") for case meta-indicators.
-- **Motion**: Fluid, micro-interactive feedback with non-blocking exit/entry transitions powered by `motion/react` to keep the user experience smooth and professional.
-
----
-
 ## 🛠️ Technology Stack
 
 - **Frontend**: [React 18](https://react.dev/), [Vite](https://vitejs.dev/), [Tailwind CSS](https://tailwindcss.com/), [Motion/React](https://github.com/motiondivision/motion) (formerly framer-motion)
